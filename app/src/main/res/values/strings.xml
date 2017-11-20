@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="admin_data">Введите логин и пароль, если вы админ</string>
+</resources>
